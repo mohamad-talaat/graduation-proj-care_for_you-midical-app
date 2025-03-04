@@ -1,4 +1,4 @@
-# e_commerce_app
+# Medical app
 
 A new Flutter project.
 

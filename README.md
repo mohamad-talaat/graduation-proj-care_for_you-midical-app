@@ -19,7 +19,7 @@ Watch the following video for a quick overview of the app's features:
 
 <center>
     <video width="600" controls>
-      <source src="[graduation-proj-care_for_you-midical-app/ss/CareForYouMobileApp.mp4](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app/blob/main/ss/CareForYouMobileApp.mp4)" type="video/mp4">
+      <source src="graduation-proj-care_for_you-midical-app/ss/CareForYouMobileApp.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </center>

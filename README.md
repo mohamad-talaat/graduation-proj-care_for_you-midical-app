@@ -9,20 +9,9 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 ## Demo Video  
-## Demo Video  
+ 
+https://github.com/user-attachments/assets/722ff24a-ac29-43c4-9fc6-c621d4e676ce
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app/tree/main)  
-
-<center>  
-    <video width="600" controls>  
-      <source src="ss/CareForYouMobileApp.mp4" type="video/mp4">  
-      Your browser does not support the video tag.  
-    </video>  
-</center>  
-<details>  
-<summary>Click to View Demo Video</summary>  
-
-[Demo Video Link](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app/tree/main)  
 
 <center>  
     <video width="600" controls>  
@@ -30,8 +19,26 @@ A few resources to get you started if this is your first Flutter project:
       Your browser does not support the video tag.  
     </video>  
 </center>  
+## Demo Video
+
+Watch the following video for a quick overview of the app's features:
+
+<details>
+<summary>Click to View Demo Video</summary>
+
+https://github.com/user-attachments/assets/20e953bd-4fe9-4dac-8b60-265bd2e57e43
+
+
+<center>  
+    <video width="600" controls>  
+      <source src="ss/CareForYouMobileApp.mp4" type="video/mp4">  
+      Your browser does not support the video tag.  
+    </video>  
+</center>  
+**Note:** You may need to click on the video to start playback.
 
 </details>  
+
 ## Technologies Used
 
 - **Flutter:** A cross-platform framework for building applications.

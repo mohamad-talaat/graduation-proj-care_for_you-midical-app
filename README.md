@@ -16,7 +16,7 @@ Watch the following video for a quick overview of the app's features:
 <details>  
 <summary>Click to View Demo Video</summary>  
 
-[Demo Video Link](https://github.com/user-attachments/assets/20e953bd-4fe9-4dac-8b60-265bd2e57e43)  
+[Demo Video Link](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app/tree/main)  
 
 <center>  
     <video width="600" controls>  

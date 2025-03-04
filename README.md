@@ -9,7 +9,16 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 ## Demo Video  
+## Demo Video  
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app/tree/main)  
+
+<center>  
+    <video width="600" controls>  
+      <source src="ss/CareForYouMobileApp.mp4" type="video/mp4">  
+      Your browser does not support the video tag.  
+    </video>  
+</center>  
 <details>  
 <summary>Click to View Demo Video</summary>  
 

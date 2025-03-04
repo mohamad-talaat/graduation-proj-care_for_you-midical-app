@@ -8,10 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-## Demo Video
- 
-
-Watch the following video for a quick overview of the app's features:  
+## Demo Video  
 
 <details>  
 <summary>Click to View Demo Video</summary>  
@@ -26,7 +23,6 @@ Watch the following video for a quick overview of the app's features:
 </center>  
 
 </details>  
-
 ## Technologies Used
 
 - **Flutter:** A cross-platform framework for building applications.
